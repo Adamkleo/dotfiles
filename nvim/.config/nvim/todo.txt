@@ -1,4 +1,0 @@
-- customize main vim screen
-- add vim keybindings to terminal
-- later on find a theme or maybe customize one
-- document the things that i need to install to use my configs for future transfers
